@@ -2,7 +2,7 @@
 
 ## 🌐 배포 URL
 - **API 기본 URL**: http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080
-- **Swagger UI**: http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html
+- **Swagger UI**: http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html (복사 붙여넣기를 해야합니다)
 ---
 
 ## 🧪 Access / Refresh Token 테스트 시나리오
