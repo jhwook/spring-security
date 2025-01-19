@@ -1,8 +1,8 @@
 # Spring Security JWT 인증 프로젝트
 
 ## 🌐 배포 URL
-- **API 기본 URL**: [http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080](http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080)
-- **Swagger UI**: [http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html](http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui)
+- **API 기본 URL**: http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080](http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080
+- **Swagger UI**: http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui/index.html](http://ec2-13-125-227-244.ap-northeast-2.compute.amazonaws.com:8080/swagger-ui
 
 ---
 
